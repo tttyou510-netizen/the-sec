@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox  
 #islam ahmed ramadan
+#2سكشن بسملة احمد سكشن 
 def exit_app():
 
     root.destroy()
@@ -45,6 +46,7 @@ normal_button = tk.Button(
     relief=tk.RAISED
 )
 normal_button.pack(side=tk.RIGHT, padx=40)
+
 
 
 
